@@ -1,0 +1,742 @@
+[
+  [
+    [
+      "73",
+      "Christian Ciech"
+    ],
+    {
+      "frac": 1,
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "72",
+      "Alessandro Ploner"
+    ],
+    {
+      "frac": 0.97069329,
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "69",
+      "Suan Selenati"
+    ],
+    {
+      "frac": 0.94211826,
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "67",
+      "Marco Laurenzi"
+    ],
+    {
+      "frac": 0.91426553,
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "107",
+      "Peter Neuenschwander"
+    ],
+    {
+      "frac": 0.88712574,
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "70",
+      "Filippo Oppici"
+    ],
+    {
+      "frac": 0.86068951,
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "10",
+      "Manfred Ruhmer"
+    ],
+    {
+      "frac": 0.83494747,
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "22",
+      "Glauco Pinto"
+    ],
+    {
+      "frac": 0.80989024,
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "24",
+      "Alvaro Figueiredo Sandoli"
+    ],
+    {
+      "frac": 0.78550846,
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "21",
+      "Marcelo Andrei Gomes Da Rocha"
+    ],
+    {
+      "frac": 0.76179275,
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "12",
+      "Joseph Salvenmoser"
+    ],
+    {
+      "frac": 0.73873374,
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "44",
+      "Mario Alonzi"
+    ],
+    {
+      "frac": 0.71632205,
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "17",
+      "Fabio Thomaz"
+    ],
+    {
+      "frac": 0.69454832,
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "78",
+      "Yuji Suzuki"
+    ],
+    {
+      "frac": 0.67340317,
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "103",
+      "Franc Peternel"
+    ],
+    {
+      "frac": 0.65287722,
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "119",
+      "Pedro L. Garcia"
+    ],
+    {
+      "frac": 0.63296112,
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "105",
+      "Stanislav Galovec"
+    ],
+    {
+      "frac": 0.61364547,
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "52",
+      "Grant Crossingham"
+    ],
+    {
+      "frac": 0.59492092,
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "26",
+      "Tyler Borradaile"
+    ],
+    {
+      "frac": 0.57677808,
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "56",
+      "Gerd Doenhuber"
+    ],
+    {
+      "frac": 0.55920759,
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "91",
+      "Olav Opsanger"
+    ],
+    {
+      "frac": 0.54220007,
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "79",
+      "Minoru Kato"
+    ],
+    {
+      "frac": 0.52574615,
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "74",
+      "Akira Nagusa"
+    ],
+    {
+      "frac": 0.50983646,
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "16",
+      "Tschurnig Gunther"
+    ],
+    {
+      "frac": 0.49446162,
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "18",
+      "David Brito Filho"
+    ],
+    {
+      "frac": 0.47961226,
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "45",
+      "Christian Pollet"
+    ],
+    {
+      "frac": 0.46527902,
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "58",
+      "Roland Woehrle"
+    ],
+    {
+      "frac": 0.45145251,
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "15",
+      "Wolfgang Siess"
+    ],
+    {
+      "frac": 0.43812337,
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "54",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 0.42528221,
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "108",
+      "Franz Herrmann"
+    ],
+    {
+      "frac": 0.41291968,
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "77",
+      "Takashi Sunama"
+    ],
+    {
+      "frac": 0.4010264,
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "60",
+      "Georg Schweier"
+    ],
+    {
+      "frac": 0.38959298,
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "100",
+      "Felix Cantesanu"
+    ],
+    {
+      "frac": 0.37861007,
+      "rank": "33"
+    }
+  ],
+  [
+    [
+      "89",
+      "Johnny Nilssen"
+    ],
+    {
+      "frac": 0.36806829,
+      "rank": "34"
+    }
+  ],
+  [
+    [
+      "92",
+      "John Smith"
+    ],
+    {
+      "frac": 0.35795827,
+      "rank": "35"
+    }
+  ],
+  [
+    [
+      "85",
+      "Joost Eertman"
+    ],
+    {
+      "frac": 0.34827062,
+      "rank": "36"
+    }
+  ],
+  [
+    [
+      "71",
+      "Manuel Revelli"
+    ],
+    {
+      "frac": 0.33899599,
+      "rank": "37"
+    }
+  ],
+  [
+    [
+      "102",
+      "Matjaz Klemencic"
+    ],
+    {
+      "frac": 0.330125,
+      "rank": "38"
+    }
+  ],
+  [
+    [
+      "84",
+      "Arne Tanzer"
+    ],
+    {
+      "frac": 0.32164827,
+      "rank": "39"
+    }
+  ],
+  [
+    [
+      "57",
+      "Primoz Gricar"
+    ],
+    {
+      "frac": 0.31355644,
+      "rank": "40"
+    }
+  ],
+  [
+    [
+      "13",
+      "Walter Mayer"
+    ],
+    {
+      "frac": 0.30584013,
+      "rank": "41"
+    }
+  ],
+  [
+    [
+      "8",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.29848996,
+      "rank": "42"
+    }
+  ],
+  [
+    [
+      "1",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 0.29149657,
+      "rank": "43"
+    }
+  ],
+  [
+    [
+      "4",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.28485059,
+      "rank": "44"
+    }
+  ],
+  [
+    [
+      "7",
+      "Nils Vesk"
+    ],
+    {
+      "frac": 0.27854263,
+      "rank": "45"
+    }
+  ],
+  [
+    [
+      "43",
+      "Eric Mathurin"
+    ],
+    {
+      "frac": 0.27256334,
+      "rank": "46"
+    }
+  ],
+  [
+    [
+      "49",
+      "Gary Wirdnam"
+    ],
+    {
+      "frac": 0.26690332,
+      "rank": "47"
+    }
+  ],
+  [
+    [
+      "50",
+      "Darren Brown"
+    ],
+    {
+      "frac": 0.26155322,
+      "rank": "48"
+    }
+  ],
+  [
+    [
+      "115",
+      "Evgen Lysenko"
+    ],
+    {
+      "frac": 0.25650366,
+      "rank": "49"
+    }
+  ],
+  [
+    [
+      "120",
+      "John Simon"
+    ],
+    {
+      "frac": 0.25174527,
+      "rank": "50"
+    }
+  ],
+  [
+    [
+      "101",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "frac": 0.24726867,
+      "rank": "51"
+    }
+  ],
+  [
+    [
+      "99",
+      "Mikolaj Przezdziak"
+    ],
+    {
+      "frac": 0.2430645,
+      "rank": "52"
+    }
+  ],
+  [
+    [
+      "31",
+      "Jiri Gut"
+    ],
+    {
+      "frac": 0.23912337,
+      "rank": "53"
+    }
+  ],
+  [
+    [
+      "46",
+      "Francois Isoard"
+    ],
+    {
+      "frac": 0.23543592,
+      "rank": "54"
+    }
+  ],
+  [
+    [
+      "19",
+      "Max Turiaco"
+    ],
+    {
+      "frac": 0.23199277,
+      "rank": "55"
+    }
+  ],
+  [
+    [
+      "122",
+      "Vanni Accattoli"
+    ],
+    {
+      "frac": 0.22878456,
+      "rank": "56"
+    }
+  ],
+  [
+    [
+      "28",
+      "Daniel Velez"
+    ],
+    {
+      "frac": 0.22580191,
+      "rank": "57"
+    }
+  ],
+  [
+    [
+      "106",
+      "Ubaldo Romano"
+    ],
+    {
+      "frac": 0.22303544,
+      "rank": "58"
+    }
+  ],
+  [
+    [
+      "11",
+      "Christian Tiefenbacher"
+    ],
+    {
+      "frac": 0.22047579,
+      "rank": "59"
+    }
+  ],
+  [
+    [
+      "3",
+      "Rory Duncan"
+    ],
+    {
+      "frac": 0.21811357,
+      "rank": "60"
+    }
+  ],
+  [
+    [
+      "68",
+      "Davide Guiducci"
+    ],
+    {
+      "frac": 0.21593943,
+      "rank": "61"
+    }
+  ],
+  [
+    [
+      "48",
+      "Andrew Hollidge"
+    ],
+    {
+      "frac": 0.21394398,
+      "rank": "62"
+    }
+  ],
+  [
+    [
+      "110",
+      "Markel Neideman"
+    ],
+    {
+      "frac": 0.21211786,
+      "rank": "63"
+    }
+  ],
+  [
+    [
+      "29",
+      "Dan Vyhnalik"
+    ],
+    {
+      "frac": 0.21045169,
+      "rank": "64"
+    }
+  ],
+  [
+    [
+      "55",
+      "Kajo Clauss"
+    ],
+    {
+      "frac": 0.20893609,
+      "rank": "65"
+    }
+  ],
+  [
+    [
+      "5",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.20756171,
+      "rank": "66"
+    }
+  ],
+  [
+    [
+      "25",
+      "Evan Smith"
+    ],
+    {
+      "frac": 0.20631915,
+      "rank": "67"
+    }
+  ],
+  [
+    [
+      "81",
+      "Young Don Lee"
+    ],
+    {
+      "frac": 0.20519906,
+      "rank": "68"
+    }
+  ],
+  [
+    [
+      "96",
+      "Shane Mckay"
+    ],
+    {
+      "frac": 0.20419205,
+      "rank": "69"
+    }
+  ],
+  [
+    [
+      "39",
+      "Tximo Iriarte"
+    ],
+    {
+      "frac": 0.20328876,
+      "rank": "70"
+    }
+  ],
+  [
+    [
+      "112",
+      "Hakan Andersson Bernardo"
+    ],
+    {
+      "frac": 0.20247981,
+      "rank": "71"
+    }
+  ],
+  [
+    [
+      "14",
+      "Alexander Sigl"
+    ],
+    {
+      "frac": 0.20175584,
+      "rank": "72"
+    }
+  ],
+  [
+    [
+      "114",
+      "Canberg Ozveren"
+    ],
+    {
+      "frac": 0.20110746,
+      "rank": "73"
+    }
+  ],
+  [
+    [
+      "23",
+      "Konrad Heilmann"
+    ],
+    {
+      "frac": 0.2005253,
+      "rank": "74"
+    }
+  ]
+]

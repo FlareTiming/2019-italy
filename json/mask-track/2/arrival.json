@@ -1,0 +1,342 @@
+[
+  [
+    [
+      "57",
+      "Primoz Gricar"
+    ],
+    {
+      "frac": 1,
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "107",
+      "Peter Neuenschwander"
+    ],
+    {
+      "frac": 0.93715085,
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "10",
+      "Manfred Ruhmer"
+    ],
+    {
+      "frac": 0.87771545,
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "73",
+      "Christian Ciech"
+    ],
+    {
+      "frac": 0.82159717,
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "72",
+      "Alessandro Ploner"
+    ],
+    {
+      "frac": 0.76869937,
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "22",
+      "Glauco Pinto"
+    ],
+    {
+      "frac": 0.71892543,
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "67",
+      "Marco Laurenzi"
+    ],
+    {
+      "frac": 0.67217871,
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "56",
+      "Gerd Doenhuber"
+    ],
+    {
+      "frac": 0.62836258,
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "44",
+      "Mario Alonzi"
+    ],
+    {
+      "frac": 0.58738042,
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "26",
+      "Tyler Borradaile"
+    ],
+    {
+      "frac": 0.54913558,
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "29",
+      "Dan Vyhnalik"
+    ],
+    {
+      "frac": 0.51353145,
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "52",
+      "Grant Crossingham"
+    ],
+    {
+      "frac": 0.48047138,
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "24",
+      "Alvaro Figueiredo Sandoli"
+    ],
+    {
+      "frac": 0.44985874,
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "84",
+      "Arne Tanzer"
+    ],
+    {
+      "frac": 0.42159691,
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "85",
+      "Joost Eertman"
+    ],
+    {
+      "frac": 0.39558925,
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "69",
+      "Suan Selenati"
+    ],
+    {
+      "frac": 0.37173914,
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "117",
+      "Zac Majors"
+    ],
+    {
+      "frac": 0.34994993,
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "25",
+      "Evan Smith"
+    ],
+    {
+      "frac": 0.330125,
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "103",
+      "Franc Peternel"
+    ],
+    {
+      "frac": 0.31216772,
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "108",
+      "Franz Herrmann"
+    ],
+    {
+      "frac": 0.29598145,
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "78",
+      "Yuji Suzuki"
+    ],
+    {
+      "frac": 0.28146957,
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "92",
+      "John Smith"
+    ],
+    {
+      "frac": 0.26853544,
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "115",
+      "Evgen Lysenko"
+    ],
+    {
+      "frac": 0.25708243,
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "17",
+      "Fabio Thomaz"
+    ],
+    {
+      "frac": 0.24701392,
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "1",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 0.23823326,
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "64",
+      "Laszlo Okros"
+    ],
+    {
+      "frac": 0.23064383,
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "58",
+      "Roland Woehrle"
+    ],
+    {
+      "frac": 0.22414899,
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "54",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 0.21865212,
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "112",
+      "Hakan Andersson Bernardo"
+    ],
+    {
+      "frac": 0.21405658,
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "75",
+      "Genki Tanaka"
+    ],
+    {
+      "frac": 0.21026575,
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "21",
+      "Marcelo Andrei Gomes Da Rocha"
+    ],
+    {
+      "frac": 0.20718298,
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "18",
+      "David Brito Filho"
+    ],
+    {
+      "frac": 0.20471166,
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "68",
+      "Davide Guiducci"
+    ],
+    {
+      "frac": 0.20275514,
+      "rank": "33"
+    }
+  ],
+  [
+    [
+      "50",
+      "Darren Brown"
+    ],
+    {
+      "frac": 0.2012168,
+      "rank": "34"
+    }
+  ]
+]

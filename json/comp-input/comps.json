@@ -1,0 +1,23 @@
+{
+  "civilId": "0",
+  "earthMath": "Vincenty",
+  "discipline": "hg",
+  "location": "Tolmezzo, Friuli Venezia Giulia, Italy",
+  "to": "2019-07-27",
+  "compName": "22nd FAI World Hang Gliding Class 1 Championship",
+  "from": "2019-07-12",
+  "utcOffset": {
+    "timeZoneMinutes": 120
+  },
+  "earth": {
+    "ellipsoid": {
+      "equatorialR": "6378137.0 m",
+      "recipF": 298.257223563
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.001
+  },
+  "scoreBack": "900.000 s"
+}
