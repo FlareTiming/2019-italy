@@ -1,20 +1,20 @@
 {
   "flyingSeconds": [
-    6685,
-    18156
+    6686,
+    18157
   ],
-  "loggedSeconds": 20103,
+  "loggedSeconds": 20104,
   "loggedTimes": [
-    "2019-07-15T09:48:01Z",
+    "2019-07-15T09:48:00Z",
     "2019-07-15T15:23:04Z"
   ],
   "flyingFixes": [
-    6685,
-    18156
+    6686,
+    18157
   ],
   "flyingTimes": [
     "2019-07-15T11:39:26Z",
     "2019-07-15T14:50:37Z"
   ],
-  "loggedFixes": 20104
+  "loggedFixes": 20105
 }

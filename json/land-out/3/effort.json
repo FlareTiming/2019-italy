@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "70.843000 km"
+      "effort": "70.851000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Piers Throssell"
     ],
     {
-      "frac": 0.95494252,
-      "effort": "55.196000 km"
+      "frac": 0.95279962,
+      "effort": "55.204000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Chomin Gallego Escribano"
     ],
     {
-      "frac": 0.94942528,
-      "effort": "53.905000 km"
+      "frac": 0.9467839,
+      "effort": "53.913000 km"
     }
   ],
   [
@@ -35,8 +35,8 @@
       "Sander Van Schaik"
     ],
     {
-      "frac": 0.94850574,
-      "effort": "53.869000 km"
+      "frac": 0.9458584,
+      "effort": "53.877000 km"
     }
   ],
   [
@@ -45,8 +45,8 @@
       "Glauco Pinto"
     ],
     {
-      "frac": 0.92091954,
-      "effort": "51.839000 km"
+      "frac": 0.91809348,
+      "effort": "51.848000 km"
     }
   ],
   [
@@ -55,8 +55,8 @@
       "Yoko Sano"
     ],
     {
-      "frac": 0.90988506,
-      "effort": "51.209000 km"
+      "frac": 0.9069875,
+      "effort": "51.216000 km"
     }
   ],
   [
@@ -65,8 +65,8 @@
       "Will Ramsey"
     ],
     {
-      "frac": 0.86850574,
-      "effort": "49.429000 km"
+      "frac": 0.86534012,
+      "effort": "49.438000 km"
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Jens Krotseng"
     ],
     {
-      "frac": 0.78850574,
-      "effort": "46.522000 km"
+      "frac": 0.78482184,
+      "effort": "46.530000 km"
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Davide Guiducci"
     ],
     {
-      "frac": 0.78528736,
-      "effort": "46.465000 km"
+      "frac": 0.7815826,
+      "effort": "46.473000 km"
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Genki Tanaka"
     ],
     {
-      "frac": 0.59862068,
-      "effort": "37.109000 km"
+      "frac": 0.5830634,
+      "effort": "37.129000 km"
     }
   ],
   [
@@ -105,18 +105,8 @@
       "Peter Burkitt"
     ],
     {
-      "frac": 0.58022988,
-      "effort": "34.060000 km"
-    }
-  ],
-  [
-    [
-      "27",
-      "Hernan Cortes Pinones"
-    ],
-    {
-      "frac": 0.57287356,
-      "effort": "33.206000 km"
+      "frac": 0.56085146,
+      "effort": "34.079000 km"
     }
   ],
   [
@@ -125,8 +115,18 @@
       "Trent Brown"
     ],
     {
-      "frac": 0.57149426,
-      "effort": "33.186000 km"
+      "frac": 0.55344748,
+      "effort": "33.205000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Hernan Cortes Pinones"
+    ],
+    {
+      "frac": 0.55344748,
+      "effort": "33.224000 km"
     }
   ],
   [
@@ -135,8 +135,8 @@
       "Shane Mckay"
     ],
     {
-      "frac": 0.51816092,
-      "effort": "30.216000 km"
+      "frac": 0.49791764,
+      "effort": "30.237000 km"
     }
   ],
   [
@@ -145,8 +145,8 @@
       "Stanislav Galovec"
     ],
     {
-      "frac": 0.45149426,
-      "effort": "27.319000 km"
+      "frac": 0.43081906,
+      "effort": "27.339000 km"
     }
   ],
   [
@@ -155,8 +155,8 @@
       "Jaesun Moon"
     ],
     {
-      "frac": 0.44229886,
-      "effort": "26.972000 km"
+      "frac": 0.4197131,
+      "effort": "26.990000 km"
     }
   ],
   [
@@ -165,8 +165,8 @@
       "Tom Kellner"
     ],
     {
-      "frac": 0.38436782,
-      "effort": "24.809000 km"
+      "frac": 0.36140676,
+      "effort": "24.827000 km"
     }
   ],
   [
@@ -175,8 +175,8 @@
       "John Simon"
     ],
     {
-      "frac": 0.30942528,
-      "effort": "21.700000 km"
+      "frac": 0.28273948,
+      "effort": "21.720000 km"
     }
   ],
   [
@@ -185,8 +185,8 @@
       "Carlos Rolando Alvarado"
     ],
     {
-      "frac": 0.30482758,
-      "effort": "21.413000 km"
+      "frac": 0.27579824,
+      "effort": "21.432000 km"
     }
   ],
   [
@@ -195,8 +195,8 @@
       "Derek Mckee"
     ],
     {
-      "frac": 0.25885058,
-      "effort": "19.652000 km"
+      "frac": 0.22767238,
+      "effort": "19.670000 km"
     }
   ],
   [
@@ -205,18 +205,8 @@
       "Joseph Salvenmoser"
     ],
     {
-      "frac": 0.24229886,
-      "effort": "19.004000 km"
-    }
-  ],
-  [
-    [
-      "117",
-      "Zac Majors"
-    ],
-    {
-      "frac": 0.17149426,
-      "effort": "16.678000 km"
+      "frac": 0.21101342,
+      "effort": "19.024000 km"
     }
   ],
   [
@@ -225,8 +215,8 @@
       "Emiel Jansen"
     ],
     {
-      "frac": 0.00873564,
-      "effort": "1.811000 km"
+      "frac": 0.00879222,
+      "effort": "1.830000 km"
     }
   ]
 ]

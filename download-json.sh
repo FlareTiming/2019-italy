@@ -80,6 +80,7 @@ for t in {1..3}
         mkdir json/cross-zone/track-flying-section/$t
         mkdir json/tag-zone/$t
         mkdir json/peg-frame/track-scored-section/$t
+        mkdir json/tag-zone/$t
         mkdir json/pilot-track/$t
         for p in {1..123}
             do

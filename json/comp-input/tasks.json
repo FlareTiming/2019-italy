@@ -4,59 +4,66 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.23083,
           "zoneName": "D01",
           "lng": 12.80694,
-          "give": "399.6 m",
           "alt": "980.000 m"
         },
         {
+          "giveIn": "22995.0 m",
           "radius": "23000.0 m",
+          "giveOut": "23005.0 m",
           "lat": 46.40417,
           "zoneName": "A07",
           "lng": 12.88361,
-          "give": null,
           "alt": "370.000 m"
         },
         {
+          "giveIn": "7995.0 m",
           "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
           "lat": 46.01028,
           "zoneName": "M03",
           "lng": 12.41861,
-          "give": null,
           "alt": "960.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 46.16917,
           "zoneName": "B58",
           "lng": 12.65361,
-          "give": null,
           "alt": "300.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 46.28065,
           "zoneName": "Z11",
           "lng": 13.10928,
-          "give": null,
           "alt": "197.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         }
       ],
@@ -368,90 +375,104 @@
         "close": "2019-07-15T16:00:00Z",
         "open": "2019-07-15T12:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.23083,
           "zoneName": "D01",
           "lng": 12.80694,
-          "give": "399.6 m",
           "alt": "980.000 m"
         },
         {
+          "giveIn": "23995.0 m",
           "radius": "24000.0 m",
+          "giveOut": "24005.0 m",
           "lat": 46.40417,
           "zoneName": "A07",
           "lng": 12.88361,
-          "give": null,
           "alt": "370.000 m"
         },
         {
+          "giveIn": "1995.0 m",
           "radius": "2000.0 m",
+          "giveOut": "2005.0 m",
           "lat": 46.15722,
           "zoneName": "B06",
           "lng": 12.59806,
-          "give": null,
           "alt": "1500.000 m"
         },
         {
+          "giveIn": "5995.0 m",
           "radius": "6000.0 m",
+          "giveOut": "6005.0 m",
           "lat": 46.33,
           "zoneName": "D15",
           "lng": 13.10167,
-          "give": null,
           "alt": "1150.000 m"
         },
         {
+          "giveIn": "34995.0 m",
           "radius": "35000.0 m",
+          "giveOut": "35005.0 m",
           "lat": 46.19722,
           "zoneName": "L15",
           "lng": 13.69666,
-          "give": null,
           "alt": "165.000 m"
         },
         {
+          "giveIn": "7995.0 m",
           "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
           "lat": 46.45194,
           "zoneName": "B41",
           "lng": 12.81028,
-          "give": null,
           "alt": "1390.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.34694,
           "zoneName": "B54",
           "lng": 13.16528,
-          "give": null,
           "alt": "1300.000 m"
         },
         {
+          "giveIn": "2995.0 m",
           "radius": "3000.0 m",
+          "giveOut": "3005.0 m",
           "lat": 46.2354,
           "zoneName": "A22",
           "lng": 13.07339,
-          "give": null,
           "alt": "171.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         }
       ],
@@ -622,58 +643,68 @@
         "close": "2019-07-16T16:30:00Z",
         "open": "2019-07-16T12:15:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "",
     "zones": {
       "raw": [
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.23083,
           "zoneName": "D01",
           "lng": 12.80694,
-          "give": "399.6 m",
           "alt": "980.000 m"
         },
         {
+          "giveIn": "13495.0 m",
           "radius": "13500.0 m",
+          "giveOut": "13505.0 m",
           "lat": 46.23556,
           "zoneName": "B24",
           "lng": 12.70583,
-          "give": null,
           "alt": "1300.000 m"
         },
         {
+          "giveIn": "4995.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5005.0 m",
           "lat": 46.09192,
           "zoneName": "B51",
           "lng": 13.43165,
-          "give": null,
           "alt": "120.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.28065,
           "zoneName": "Z11",
           "lng": 13.10928,
-          "give": null,
           "alt": "197.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         },
         {
+          "giveIn": "395.0 m",
           "radius": "400.0 m",
+          "giveOut": "405.0 m",
           "lat": 46.30722,
           "zoneName": "A02",
           "lng": 13.11333,
-          "give": null,
           "alt": "220.000 m"
         }
       ],
@@ -780,6 +811,10 @@
         "close": "2019-07-17T17:00:00Z",
         "open": "2019-07-17T12:15:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   }
 ]
