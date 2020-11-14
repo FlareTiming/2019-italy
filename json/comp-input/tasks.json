@@ -1,6 +1,120 @@
 [
   {
-    "taskName": "",
+    "taskName": "Training Day",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.23083,
+          "zoneName": "D01",
+          "lng": 12.80694,
+          "alt": "980.000 m"
+        },
+        {
+          "giveIn": "19995.0 m",
+          "radius": "20000.0 m",
+          "giveOut": "20005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "1995.0 m",
+          "radius": "2000.0 m",
+          "giveOut": "2005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "20000.0 m",
+              "center": [
+                "46.30722000 deg",
+                "13.11333000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "2000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.23083000 deg",
+                "12.80694000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-14T10:00:00Z"
+    ],
+    "penalsAuto": [],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2019-07-14T18:00:00Z",
+        "open": "2019-07-14T10:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 1",
     "zones": {
       "raw": [
         {
@@ -145,12 +259,32 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2019-07-15T12:30:00Z",
       "2019-07-15T13:00:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "27",
+          "Hernan Cortes Pinones"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -121.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 4:03"
+      ]
     ],
     "penals": [
       [
@@ -158,11 +292,15 @@
           "33",
           "Lukas Vojacek"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -170,11 +308,15 @@
           "34",
           "Petr Polach"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -182,11 +324,15 @@
           "35",
           "Frantisek Kostal"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -194,11 +340,15 @@
           "37",
           "Alvaro Idigoras"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -206,11 +356,15 @@
           "38",
           "Daniel Martin Mota"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -218,23 +372,31 @@
           "61",
           "Carlos Rolando Alvarado"
         ],
-        [
-          {
-            "penalty-fraction": 0.4
-          }
-        ],
-        "20m from Airspace Limit"
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.6
+            }
+          ]
+        },
+        "20m. from Airspace Border"
       ],
       [
         [
           "76",
           "Shogo Ota"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -242,11 +404,15 @@
           "80",
           "Yoko Sano"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -254,11 +420,15 @@
           "87",
           "Gijs Wanders"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -266,11 +436,15 @@
           "93",
           "Derek Mckee"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -278,11 +452,15 @@
           "95",
           "Viv Clements"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -290,35 +468,47 @@
           "97",
           "Tom Kellner"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
-        "Landed in a No Landing Zone"
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Landed in No Landing Zone"
       ],
       [
         [
           "104",
-          "Janez Grm"
+          "janez grm"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
         [
           "114",
-          "Canberg Ozveren"
+          "CANBERG OZVEREN"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -326,11 +516,15 @@
           "116",
           "Jeff Chipman"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ],
       [
@@ -338,11 +532,15 @@
           "117",
           "Zac Majors"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ]
     ],
@@ -377,12 +575,13 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
   },
   {
-    "taskName": "",
+    "taskName": "Task 2",
     "zones": {
       "raw": [
         {
@@ -581,12 +780,32 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2019-07-16T12:15:00Z",
       "2019-07-16T12:40:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "27",
+          "Hernan Cortes Pinones"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -103.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 3:27"
+      ]
     ],
     "penals": [
       [
@@ -594,11 +813,15 @@
           "2",
           "Rohan Taylor"
         ],
-        [
-          {
-            "penalty-fraction": 1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
         "Airspace Infringement"
       ]
     ],
@@ -645,12 +868,13 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }
   },
   {
-    "taskName": "",
+    "taskName": "Task 3",
     "zones": {
       "raw": [
         {
@@ -777,14 +1001,17 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2019-07-17T12:15:00Z",
       "2019-07-17T12:40:00Z",
       "2019-07-17T13:05:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -813,6 +1040,1983 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 4",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.27417,
+          "zoneName": "D02",
+          "lng": 13.17667,
+          "alt": "1170.000 m"
+        },
+        {
+          "giveIn": "40495.0 m",
+          "radius": "40500.0 m",
+          "giveOut": "40505.0 m",
+          "lat": 46.00278,
+          "zoneName": "V02",
+          "lng": 12.79908,
+          "alt": "56.000 m"
+        },
+        {
+          "giveIn": "36995.0 m",
+          "radius": "37000.0 m",
+          "giveOut": "37005.0 m",
+          "lat": 46.00278,
+          "zoneName": "V02",
+          "lng": 12.79908,
+          "alt": "56.000 m"
+        },
+        {
+          "giveIn": "1995.0 m",
+          "radius": "2000.0 m",
+          "giveOut": "2005.0 m",
+          "lat": 46.28222,
+          "zoneName": "L06",
+          "lng": 13.26417,
+          "alt": "370.000 m"
+        },
+        {
+          "giveIn": "8995.0 m",
+          "radius": "9000.0 m",
+          "giveOut": "9005.0 m",
+          "lat": 46.23,
+          "zoneName": "B31",
+          "lng": 13.80444,
+          "alt": "1820.000 m"
+        },
+        {
+          "giveIn": "24495.0 m",
+          "radius": "24500.0 m",
+          "giveOut": "24505.0 m",
+          "lat": 46.35583,
+          "zoneName": "B05",
+          "lng": 12.78278,
+          "alt": "1087.000 m"
+        },
+        {
+          "giveIn": "9995.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10005.0 m",
+          "lat": 46.09192,
+          "zoneName": "B51",
+          "lng": 13.43165,
+          "alt": "120.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.28065,
+          "zoneName": "Z11",
+          "lng": 13.10928,
+          "alt": "197.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "40500.0 m",
+              "center": [
+                "46.00278000 deg",
+                "12.79908000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "37000.0 m",
+              "center": [
+                "46.00278000 deg",
+                "12.79908000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "46.28222000 deg",
+                "13.26417000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "9000.0 m",
+              "center": [
+                "46.23000000 deg",
+                "13.80444000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "24500.0 m",
+              "center": [
+                "46.35583000 deg",
+                "12.78278000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "46.09192000 deg",
+                "13.43165000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.28065000 deg",
+                "13.10928000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.27417000 deg",
+                "13.17667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      9
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-19T12:25:00Z",
+      "2019-07-19T12:50:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "10",
+          "Manfred Ruhmer"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -10
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:20"
+      ],
+      [
+        [
+          "23",
+          "Konrad Heilmann"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -9.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:19"
+      ],
+      [
+        [
+          "60",
+          "Georg Schweier"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -3.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:07"
+      ]
+    ],
+    "penals": [
+      [
+        [
+          "19",
+          "Max Turiaco"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -300
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Flew without tracker"
+      ],
+      [
+        [
+          "111",
+          "Tommy Nilsson"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2019-07-19T13:30:00Z",
+        "open": "2019-07-19T10:50:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      },
+      {
+        "close": "2019-07-19T17:30:00Z",
+        "open": "2019-07-19T12:25:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 5",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.23083,
+          "zoneName": "D01",
+          "lng": 12.80694,
+          "alt": "980.000 m"
+        },
+        {
+          "giveIn": "19995.0 m",
+          "radius": "20000.0 m",
+          "giveOut": "20005.0 m",
+          "lat": 46.09722,
+          "zoneName": "B08",
+          "lng": 12.68333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "9995.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10005.0 m",
+          "lat": 46.09192,
+          "zoneName": "B51",
+          "lng": 13.43165,
+          "alt": "120.000 m"
+        },
+        {
+          "giveIn": "9995.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10005.0 m",
+          "lat": 46.24306,
+          "zoneName": "B72",
+          "lng": 12.92167,
+          "alt": "1170.000 m"
+        },
+        {
+          "giveIn": "7995.0 m",
+          "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
+          "lat": 46.18306,
+          "zoneName": "B52",
+          "lng": 13.35083,
+          "alt": "750.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.28065,
+          "zoneName": "Z11",
+          "lng": 13.10928,
+          "alt": "197.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "20000.0 m",
+              "center": [
+                "46.09722000 deg",
+                "12.68333000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "46.09192000 deg",
+                "13.43165000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "46.24306000 deg",
+                "12.92167000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "8000.0 m",
+              "center": [
+                "46.18306000 deg",
+                "13.35083000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.28065000 deg",
+                "13.10928000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.23083000 deg",
+                "12.80694000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      7
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-20T11:45:00Z",
+      "2019-07-20T12:10:00Z"
+    ],
+    "penalsAuto": [],
+    "penals": [
+      [
+        [
+          "37",
+          "Alvaro Idigoras"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2019-07-20T13:00:00Z",
+        "open": "2019-07-20T10:00:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      },
+      {
+        "close": "2019-07-20T17:30:00Z",
+        "open": "2019-07-20T11:45:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 6",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.27417,
+          "zoneName": "D02",
+          "lng": 13.17667,
+          "alt": "1170.000 m"
+        },
+        {
+          "giveIn": "5995.0 m",
+          "radius": "6000.0 m",
+          "giveOut": "6005.0 m",
+          "lat": 46.19889,
+          "zoneName": "B46",
+          "lng": 13.11694,
+          "alt": "180.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.19889,
+          "zoneName": "B46",
+          "lng": 13.11694,
+          "alt": "180.000 m"
+        },
+        {
+          "giveIn": "7995.0 m",
+          "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
+          "lat": 46.09192,
+          "zoneName": "B51",
+          "lng": 13.43165,
+          "alt": "120.000 m"
+        },
+        {
+          "giveIn": "6995.0 m",
+          "radius": "7000.0 m",
+          "giveOut": "7005.0 m",
+          "lat": 46.10639,
+          "zoneName": "B26",
+          "lng": 12.90361,
+          "alt": "130.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "6000.0 m",
+              "center": [
+                "46.19889000 deg",
+                "13.11694000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "46.19889000 deg",
+                "13.11694000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "8000.0 m",
+              "center": [
+                "46.09192000 deg",
+                "13.43165000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "7000.0 m",
+              "center": [
+                "46.10639000 deg",
+                "12.90361000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.27417000 deg",
+                "13.17667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-21T12:30:00Z",
+      "2019-07-21T12:55:00Z"
+    ],
+    "penalsAuto": [],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2019-07-21T13:00:00Z",
+        "open": "2019-07-21T11:10:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      },
+      {
+        "close": "2019-07-21T16:30:00Z",
+        "open": "2019-07-21T12:30:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 7",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.27417,
+          "zoneName": "D02",
+          "lng": 13.17667,
+          "alt": "1170.000 m"
+        },
+        {
+          "giveIn": "30995.0 m",
+          "radius": "31000.0 m",
+          "giveOut": "31005.0 m",
+          "lat": 46.57028,
+          "zoneName": "B57",
+          "lng": 13.05028,
+          "alt": "2011.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.57028,
+          "zoneName": "B57",
+          "lng": 13.05028,
+          "alt": "2011.000 m"
+        },
+        {
+          "giveIn": "1995.0 m",
+          "radius": "2000.0 m",
+          "giveOut": "2005.0 m",
+          "lat": 46.57583,
+          "zoneName": "B17",
+          "lng": 12.86333,
+          "alt": "1718.000 m"
+        },
+        {
+          "giveIn": "9995.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10005.0 m",
+          "lat": 46.09192,
+          "zoneName": "B51",
+          "lng": 13.43165,
+          "alt": "120.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.28065,
+          "zoneName": "Z11",
+          "lng": 13.10928,
+          "alt": "197.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "31000.0 m",
+              "center": [
+                "46.57028000 deg",
+                "13.05028000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "46.57028000 deg",
+                "13.05028000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "46.57583000 deg",
+                "12.86333000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "46.09192000 deg",
+                "13.43165000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.28065000 deg",
+                "13.10928000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.27417000 deg",
+                "13.17667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      7
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-22T12:15:00Z"
+    ],
+    "penalsAuto": [],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2019-07-22T13:00:00Z",
+        "open": "2019-07-22T11:00:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      },
+      {
+        "close": "2019-07-22T17:30:00Z",
+        "open": "2019-07-22T12:15:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 8",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.54694,
+          "zoneName": "D03",
+          "lng": 12.92611,
+          "alt": "1900.000 m"
+        },
+        {
+          "giveIn": "8995.0 m",
+          "radius": "9000.0 m",
+          "giveOut": "9005.0 m",
+          "lat": 46.57028,
+          "zoneName": "B57",
+          "lng": 13.05028,
+          "alt": "2011.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.57028,
+          "zoneName": "B57",
+          "lng": 13.05028,
+          "alt": "2011.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.7725,
+          "zoneName": "D05",
+          "lng": 13.14944,
+          "alt": "1730.000 m"
+        },
+        {
+          "giveIn": "7995.0 m",
+          "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
+          "lat": 46.79028,
+          "zoneName": "B82",
+          "lng": 13.39611,
+          "alt": "1624.000 m"
+        },
+        {
+          "giveIn": "52994.7 m",
+          "radius": "53000.0 m",
+          "giveOut": "53005.3 m",
+          "lat": 46.87031,
+          "zoneName": "B91",
+          "lng": 11.75571,
+          "alt": "2699.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.5806,
+          "zoneName": "A15",
+          "lng": 13.62975,
+          "alt": "550.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.5806,
+          "zoneName": "A15",
+          "lng": 13.62975,
+          "alt": "550.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "9000.0 m",
+              "center": [
+                "46.57028000 deg",
+                "13.05028000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "46.57028000 deg",
+                "13.05028000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "46.77250000 deg",
+                "13.14944000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "8000.0 m",
+              "center": [
+                "46.79028000 deg",
+                "13.39611000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "53000.0 m",
+              "center": [
+                "46.87031000 deg",
+                "11.75571000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.58060000 deg",
+              "13.62975000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.58060000 deg",
+              "13.62975000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.54694000 deg",
+                "12.92611000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      7
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-23T11:15:00Z",
+      "2019-07-23T11:40:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "87",
+          "Gijs Wanders"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -1
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:02"
+      ]
+    ],
+    "penals": [
+      [
+        [
+          "45",
+          "Christian Pollet"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.94
+            }
+          ]
+        },
+        "60 meters from Airspace Border"
+      ],
+      [
+        [
+          "50",
+          "Darren Brown"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "30",
+          "Jiri Nadvornik"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.99
+            }
+          ]
+        },
+        "90 meters from Airspace Border"
+      ],
+      [
+        [
+          "58",
+          "Roland Woehrle"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "107",
+          "Peter Neuenschwander"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.97
+            }
+          ]
+        },
+        "80 meters from Airspace Border"
+      ],
+      [
+        [
+          "108",
+          "Franz Herrmann"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.76
+            }
+          ]
+        },
+        "26 meters from Airspace Border"
+      ],
+      [
+        [
+          "123",
+          "Igriza Flora"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2019-07-23T13:30:00Z",
+        "open": "2019-07-23T09:50:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      },
+      {
+        "close": "2019-07-23T18:00:00Z",
+        "open": "2019-07-23T11:15:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 9",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.23083,
+          "zoneName": "D01",
+          "lng": 12.80694,
+          "alt": "980.000 m"
+        },
+        {
+          "giveIn": "26995.0 m",
+          "radius": "27000.0 m",
+          "giveOut": "27005.0 m",
+          "lat": 46.45194,
+          "zoneName": "B41",
+          "lng": 12.81028,
+          "alt": "1390.000 m"
+        },
+        {
+          "giveIn": "1995.0 m",
+          "radius": "2000.0 m",
+          "giveOut": "2005.0 m",
+          "lat": 46.15722,
+          "zoneName": "B06",
+          "lng": 12.59806,
+          "alt": "1500.000 m"
+        },
+        {
+          "giveIn": "5995.0 m",
+          "radius": "6000.0 m",
+          "giveOut": "6005.0 m",
+          "lat": 46.01028,
+          "zoneName": "M03",
+          "lng": 12.41861,
+          "alt": "960.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.16917,
+          "zoneName": "B58",
+          "lng": 12.65361,
+          "alt": "300.000 m"
+        },
+        {
+          "giveIn": "2995.0 m",
+          "radius": "3000.0 m",
+          "giveOut": "3005.0 m",
+          "lat": 46.19889,
+          "zoneName": "B46",
+          "lng": 13.11694,
+          "alt": "180.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.30722,
+          "zoneName": "A02",
+          "lng": 13.11333,
+          "alt": "220.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "27000.0 m",
+              "center": [
+                "46.45194000 deg",
+                "12.81028000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "2000.0 m",
+              "center": [
+                "46.15722000 deg",
+                "12.59806000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "6000.0 m",
+              "center": [
+                "46.01028000 deg",
+                "12.41861000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "1000.0 m",
+              "center": [
+                "46.16917000 deg",
+                "12.65361000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "3000.0 m",
+              "center": [
+                "46.19889000 deg",
+                "13.11694000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.30722000 deg",
+              "13.11333000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.23083000 deg",
+                "12.80694000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      7
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-24T12:15:00Z",
+      "2019-07-24T12:40:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "84",
+          "Arne Tanzer"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -1
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:02"
+      ]
+    ],
+    "penals": [
+      [
+        [
+          "20",
+          "Eduardo Oliveira"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "30",
+          "Jiri Nadvornik"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "40",
+          "Jesus Mari Hernando Duque"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "50",
+          "Darren Brown"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
+        "33 meters from Airspace Border"
+      ],
+      [
+        [
+          "82",
+          "jaesun moon"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "83",
+          "Sander van Schaik"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "90",
+          "Jens Krotseng"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Landed in No Landing Zone"
+      ],
+      [
+        [
+          "101",
+          "Konstantin Lukyanov"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "104",
+          "janez grm"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "106",
+          "Ubaldo Romano"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ],
+      [
+        [
+          "114",
+          "CANBERG OZVEREN"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.6
+            }
+          ]
+        },
+        "20 meters from Airspace Border"
+      ],
+      [
+        [
+          "116",
+          "Jeff Chipman"
+        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0
+            }
+          ]
+        },
+        "Airspace Infringement"
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2019-07-24T13:00:00Z",
+        "open": "2019-07-24T10:45:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      },
+      {
+        "close": "2019-07-24T17:00:00Z",
+        "open": "2019-07-24T12:15:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
+  },
+  {
+    "taskName": "Task 10",
+    "zones": {
+      "raw": [
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.27417,
+          "zoneName": "D02",
+          "lng": 13.17667,
+          "alt": "1170.000 m"
+        },
+        {
+          "giveIn": "24995.0 m",
+          "radius": "25000.0 m",
+          "giveOut": "25005.0 m",
+          "lat": 46.10639,
+          "zoneName": "B26",
+          "lng": 12.90361,
+          "alt": "130.000 m"
+        },
+        {
+          "giveIn": "7995.0 m",
+          "radius": "8000.0 m",
+          "giveOut": "8005.0 m",
+          "lat": 46.10639,
+          "zoneName": "B26",
+          "lng": 12.90361,
+          "alt": "130.000 m"
+        },
+        {
+          "giveIn": "24995.0 m",
+          "radius": "25000.0 m",
+          "giveOut": "25005.0 m",
+          "lat": 46.12111,
+          "zoneName": "B16",
+          "lng": 13.7125,
+          "alt": "369.000 m"
+        },
+        {
+          "giveIn": "9995.0 m",
+          "radius": "10000.0 m",
+          "giveOut": "10005.0 m",
+          "lat": 46.27417,
+          "zoneName": "B48",
+          "lng": 12.99667,
+          "alt": "1450.000 m"
+        },
+        {
+          "giveIn": "995.0 m",
+          "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
+          "lat": 46.06858,
+          "zoneName": "A20",
+          "lng": 13.36744,
+          "alt": "106.000 m"
+        },
+        {
+          "giveIn": "395.0 m",
+          "radius": "400.0 m",
+          "giveOut": "405.0 m",
+          "lat": 46.06858,
+          "zoneName": "A20",
+          "lng": 13.36744,
+          "alt": "106.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "25000.0 m",
+              "center": [
+                "46.10639000 deg",
+                "12.90361000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "8000.0 m",
+              "center": [
+                "46.10639000 deg",
+                "12.90361000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "25000.0 m",
+              "center": [
+                "46.12111000 deg",
+                "13.71250000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "46.27417000 deg",
+                "12.99667000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "46.06858000 deg",
+              "13.36744000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "1000.0 m",
+            "center": [
+              "46.06858000 deg",
+              "13.36744000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "46.27417000 deg",
+                "13.17667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
+    },
+    "startGates": [
+      "2019-07-26T11:00:00Z",
+      "2019-07-26T11:25:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "66",
+          "Tullio Gervasoni"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -1.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:03"
+      ],
+      [
+        [
+          "48",
+          "Andrew Hollidge"
+        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -4
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
+        "Jumped the gun by 0:08"
+      ]
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2019-07-26T13:00:00Z",
+        "open": "2019-07-26T09:30:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      },
+      {
+        "close": "2019-07-26T16:00:00Z",
+        "open": "2019-07-26T11:00:00Z"
+      }
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "2 s",
       "earliest": "300 s"
     }

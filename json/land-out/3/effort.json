@@ -1,202 +1,82 @@
 [
   [
     [
-      "92",
-      "John Smith"
+      "51",
+      "Dave Matthews"
     ],
     {
       "frac": 1,
-      "effort": "70.851000 km"
+      "effort": "128.832000 km"
     }
   ],
   [
     [
-      "98",
-      "Piers Throssell"
+      "119",
+      "Pedro L. Garcia"
     ],
     {
-      "frac": 0.95279962,
-      "effort": "55.204000 km"
+      "frac": 0.99951172,
+      "effort": "128.792000 km"
     }
   ],
   [
     [
-      "41",
-      "Chomin Gallego Escribano"
+      "89",
+      "Johnny Nilssen"
     ],
     {
-      "frac": 0.9467839,
-      "effort": "53.913000 km"
+      "frac": 0.98242188,
+      "effort": "125.212000 km"
     }
   ],
   [
     [
-      "83",
-      "Sander Van Schaik"
+      "102",
+      "Matjaz Klemencic"
     ],
     {
-      "frac": 0.9458584,
-      "effort": "53.877000 km"
+      "frac": 0.98242188,
+      "effort": "125.234000 km"
     }
   ],
   [
     [
-      "22",
-      "Glauco Pinto"
+      "60",
+      "Georg Schweier"
     ],
     {
-      "frac": 0.91809348,
-      "effort": "51.848000 km"
+      "frac": 0.98144531,
+      "effort": "125.152000 km"
     }
   ],
   [
     [
-      "80",
-      "Yoko Sano"
+      "34",
+      "Petr Polach"
     ],
     {
-      "frac": 0.9069875,
-      "effort": "51.216000 km"
+      "frac": 0.96142578,
+      "effort": "123.241000 km"
     }
   ],
   [
     [
-      "118",
-      "Will Ramsey"
+      "7",
+      "Nils Vesk"
     ],
     {
-      "frac": 0.86534012,
-      "effort": "49.438000 km"
+      "frac": 0.92919922,
+      "effort": "118.918000 km"
     }
   ],
   [
     [
-      "90",
-      "Jens Krotseng"
+      "91",
+      "Olav Opsanger"
     ],
     {
-      "frac": 0.78482184,
-      "effort": "46.530000 km"
-    }
-  ],
-  [
-    [
-      "68",
-      "Davide Guiducci"
-    ],
-    {
-      "frac": 0.7815826,
-      "effort": "46.473000 km"
-    }
-  ],
-  [
-    [
-      "75",
-      "Genki Tanaka"
-    ],
-    {
-      "frac": 0.5830634,
-      "effort": "37.129000 km"
-    }
-  ],
-  [
-    [
-      "5",
-      "Peter Burkitt"
-    ],
-    {
-      "frac": 0.56085146,
-      "effort": "34.079000 km"
-    }
-  ],
-  [
-    [
-      "4",
-      "Trent Brown"
-    ],
-    {
-      "frac": 0.55344748,
-      "effort": "33.205000 km"
-    }
-  ],
-  [
-    [
-      "27",
-      "Hernan Cortes Pinones"
-    ],
-    {
-      "frac": 0.55344748,
-      "effort": "33.224000 km"
-    }
-  ],
-  [
-    [
-      "96",
-      "Shane Mckay"
-    ],
-    {
-      "frac": 0.49791764,
-      "effort": "30.237000 km"
-    }
-  ],
-  [
-    [
-      "105",
-      "Stanislav Galovec"
-    ],
-    {
-      "frac": 0.43081906,
-      "effort": "27.339000 km"
-    }
-  ],
-  [
-    [
-      "82",
-      "Jaesun Moon"
-    ],
-    {
-      "frac": 0.4197131,
-      "effort": "26.990000 km"
-    }
-  ],
-  [
-    [
-      "97",
-      "Tom Kellner"
-    ],
-    {
-      "frac": 0.36140676,
-      "effort": "24.827000 km"
-    }
-  ],
-  [
-    [
-      "120",
-      "John Simon"
-    ],
-    {
-      "frac": 0.28273948,
-      "effort": "21.720000 km"
-    }
-  ],
-  [
-    [
-      "61",
-      "Carlos Rolando Alvarado"
-    ],
-    {
-      "frac": 0.27579824,
-      "effort": "21.432000 km"
-    }
-  ],
-  [
-    [
-      "93",
-      "Derek Mckee"
-    ],
-    {
-      "frac": 0.22767238,
-      "effort": "19.670000 km"
+      "frac": 0.92236328,
+      "effort": "116.773000 km"
     }
   ],
   [
@@ -205,8 +85,618 @@
       "Joseph Salvenmoser"
     ],
     {
-      "frac": 0.21101342,
-      "effort": "19.024000 km"
+      "frac": 0.91259766,
+      "effort": "114.784000 km"
+    }
+  ],
+  [
+    [
+      "53",
+      "Malcolm Brown"
+    ],
+    {
+      "frac": 0.89208984,
+      "effort": "102.716000 km"
+    }
+  ],
+  [
+    [
+      "16",
+      "Tschurnig Gunther"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.601000 km"
+    }
+  ],
+  [
+    [
+      "76",
+      "Shogo Ota"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.603000 km"
+    }
+  ],
+  [
+    [
+      "4",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.604000 km"
+    }
+  ],
+  [
+    [
+      "109",
+      "Damien Zahn"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.606000 km"
+    }
+  ],
+  [
+    [
+      "122",
+      "Vanni Accattoli"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.618000 km"
+    }
+  ],
+  [
+    [
+      "100",
+      "Felix Cantesanu"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.621000 km"
+    }
+  ],
+  [
+    [
+      "47",
+      "Antoine Saraf"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.626000 km"
+    }
+  ],
+  [
+    [
+      "43",
+      "ERIC MATHURIN"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.636000 km"
+    }
+  ],
+  [
+    [
+      "13",
+      "Walter Mayer"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.643000 km"
+    }
+  ],
+  [
+    [
+      "90",
+      "Jens Krotseng"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.643000 km"
+    }
+  ],
+  [
+    [
+      "55",
+      "Kajo Clauss"
+    ],
+    {
+      "frac": 0.88671875,
+      "effort": "100.657000 km"
+    }
+  ],
+  [
+    [
+      "45",
+      "Christian Pollet"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.571000 km"
+    }
+  ],
+  [
+    [
+      "70",
+      "Filippo Oppici"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.579000 km"
+    }
+  ],
+  [
+    [
+      "49",
+      "Gary Wirdnam"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.583000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Petr Tucek"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.590000 km"
+    }
+  ],
+  [
+    [
+      "28",
+      "Daniel Velez"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.592000 km"
+    }
+  ],
+  [
+    [
+      "95",
+      "Viv Clements"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.597000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Alexander Sigl"
+    ],
+    {
+      "frac": 0.88378906,
+      "effort": "100.599000 km"
+    }
+  ],
+  [
+    [
+      "116",
+      "Jeff Chipman"
+    ],
+    {
+      "frac": 0.86962891,
+      "effort": "100.279000 km"
+    }
+  ],
+  [
+    [
+      "46",
+      "Francois ISOARD"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.214000 km"
+    }
+  ],
+  [
+    [
+      "19",
+      "Max Turiaco"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.232000 km"
+    }
+  ],
+  [
+    [
+      "79",
+      "Minoru Kato"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.235000 km"
+    }
+  ],
+  [
+    [
+      "71",
+      "Manuel REVELLI"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.242000 km"
+    }
+  ],
+  [
+    [
+      "96",
+      "Shane mckay"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.246000 km"
+    }
+  ],
+  [
+    [
+      "106",
+      "Ubaldo Romano"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.249000 km"
+    }
+  ],
+  [
+    [
+      "31",
+      "Jiri Gut"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.259000 km"
+    }
+  ],
+  [
+    [
+      "6",
+      "Craig Taylor"
+    ],
+    {
+      "frac": 0.81933594,
+      "effort": "99.279000 km"
+    }
+  ],
+  [
+    [
+      "42",
+      "Eric Wyss"
+    ],
+    {
+      "frac": 0.77050781,
+      "effort": "98.543000 km"
+    }
+  ],
+  [
+    [
+      "74",
+      "Akira Nagusa"
+    ],
+    {
+      "frac": 0.76318359,
+      "effort": "98.452000 km"
+    }
+  ],
+  [
+    [
+      "48",
+      "Andrew Hollidge"
+    ],
+    {
+      "frac": 0.75585938,
+      "effort": "98.349000 km"
+    }
+  ],
+  [
+    [
+      "120",
+      "John Simon"
+    ],
+    {
+      "frac": 0.72460938,
+      "effort": "97.991000 km"
+    }
+  ],
+  [
+    [
+      "87",
+      "Gijs Wanders"
+    ],
+    {
+      "frac": 0.70117188,
+      "effort": "97.648000 km"
+    }
+  ],
+  [
+    [
+      "9",
+      "Steve Docherty"
+    ],
+    {
+      "frac": 0.59716797,
+      "effort": "96.319000 km"
+    }
+  ],
+  [
+    [
+      "35",
+      "Frantisek Kostal"
+    ],
+    {
+      "frac": 0.59716797,
+      "effort": "96.338000 km"
+    }
+  ],
+  [
+    [
+      "77",
+      "Takashi Sunama"
+    ],
+    {
+      "frac": 0.58886719,
+      "effort": "96.288000 km"
+    }
+  ],
+  [
+    [
+      "94",
+      "Matthew Barlow"
+    ],
+    {
+      "frac": 0.57128906,
+      "effort": "96.002000 km"
+    }
+  ],
+  [
+    [
+      "3",
+      "Rory Duncan"
+    ],
+    {
+      "frac": 0.44775391,
+      "effort": "89.056000 km"
+    }
+  ],
+  [
+    [
+      "38",
+      "Daniel Martin Mota"
+    ],
+    {
+      "frac": 0.44287109,
+      "effort": "87.181000 km"
+    }
+  ],
+  [
+    [
+      "81",
+      "Young don Lee"
+    ],
+    {
+      "frac": 0.44189453,
+      "effort": "86.988000 km"
+    }
+  ],
+  [
+    [
+      "82",
+      "jaesun moon"
+    ],
+    {
+      "frac": 0.41162109,
+      "effort": "78.246000 km"
+    }
+  ],
+  [
+    [
+      "39",
+      "Tximo Iriarte"
+    ],
+    {
+      "frac": 0.41162109,
+      "effort": "78.357000 km"
+    }
+  ],
+  [
+    [
+      "86",
+      "Tanno Rutten"
+    ],
+    {
+      "frac": 0.41113281,
+      "effort": "78.174000 km"
+    }
+  ],
+  [
+    [
+      "104",
+      "janez grm"
+    ],
+    {
+      "frac": 0.41015625,
+      "effort": "78.054000 km"
+    }
+  ],
+  [
+    [
+      "123",
+      "Igriza Flora"
+    ],
+    {
+      "frac": 0.40527344,
+      "effort": "77.582000 km"
+    }
+  ],
+  [
+    [
+      "111",
+      "Tommy Nilsson"
+    ],
+    {
+      "frac": 0.3515625,
+      "effort": "66.866000 km"
+    }
+  ],
+  [
+    [
+      "5",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.3515625,
+      "effort": "66.884000 km"
+    }
+  ],
+  [
+    [
+      "118",
+      "Will Ramsey"
+    ],
+    {
+      "frac": 0.3515625,
+      "effort": "66.892000 km"
+    }
+  ],
+  [
+    [
+      "114",
+      "CANBERG OZVEREN"
+    ],
+    {
+      "frac": 0.31542969,
+      "effort": "57.700000 km"
+    }
+  ],
+  [
+    [
+      "11",
+      "Christian Tiefenbacher"
+    ],
+    {
+      "frac": 0.31542969,
+      "effort": "57.744000 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Markel Neideman"
+    ],
+    {
+      "frac": 0.31542969,
+      "effort": "57.744000 km"
+    }
+  ],
+  [
+    [
+      "41",
+      "Chomin Gallego Escribano"
+    ],
+    {
+      "frac": 0.30419922,
+      "effort": "56.276000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Wolfgang Siess"
+    ],
+    {
+      "frac": 0.30419922,
+      "effort": "56.294000 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Attila Kis"
+    ],
+    {
+      "frac": 0.30078125,
+      "effort": "55.914000 km"
+    }
+  ],
+  [
+    [
+      "30",
+      "Jiri Nadvornik"
+    ],
+    {
+      "frac": 0.30078125,
+      "effort": "55.914000 km"
+    }
+  ],
+  [
+    [
+      "97",
+      "Tom Kellner"
+    ],
+    {
+      "frac": 0.30078125,
+      "effort": "55.916000 km"
+    }
+  ],
+  [
+    [
+      "105",
+      "Stanislav GALOVEC"
+    ],
+    {
+      "frac": 0.30078125,
+      "effort": "55.931000 km"
+    }
+  ],
+  [
+    [
+      "65",
+      "Noel Collins"
+    ],
+    {
+      "frac": 0.30078125,
+      "effort": "55.933000 km"
+    }
+  ],
+  [
+    [
+      "27",
+      "Hernan Cortes Pinones"
+    ],
+    {
+      "frac": 0.29833984,
+      "effort": "55.863000 km"
+    }
+  ],
+  [
+    [
+      "2",
+      "Rohan Taylor"
+    ],
+    {
+      "frac": 0.29833984,
+      "effort": "55.877000 km"
+    }
+  ],
+  [
+    [
+      "113",
+      "Kamil Demirkan"
+    ],
+    {
+      "frac": 0.29833984,
+      "effort": "55.884000 km"
     }
   ],
   [
@@ -215,8 +705,138 @@
       "Emiel Jansen"
     ],
     {
-      "frac": 0.00879222,
-      "effort": "1.830000 km"
+      "frac": 0.20117188,
+      "effort": "52.819000 km"
+    }
+  ],
+  [
+    [
+      "99",
+      "Mikolaj Przezdziak"
+    ],
+    {
+      "frac": 0.19287109,
+      "effort": "52.561000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Joerg Bajewski"
+    ],
+    {
+      "frac": 0.14941406,
+      "effort": "50.675000 km"
+    }
+  ],
+  [
+    [
+      "37",
+      "Alvaro Idigoras"
+    ],
+    {
+      "frac": 0.14697266,
+      "effort": "50.370000 km"
+    }
+  ],
+  [
+    [
+      "8",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.14599609,
+      "effort": "50.299000 km"
+    }
+  ],
+  [
+    [
+      "33",
+      "Lukas Vojacek"
+    ],
+    {
+      "frac": 0.09960938,
+      "effort": "45.492000 km"
+    }
+  ],
+  [
+    [
+      "93",
+      "Derek Mckee"
+    ],
+    {
+      "frac": 0.09130859,
+      "effort": "42.110000 km"
+    }
+  ],
+  [
+    [
+      "80",
+      "Yoko Sano"
+    ],
+    {
+      "frac": 0.07910156,
+      "effort": "38.724000 km"
+    }
+  ],
+  [
+    [
+      "20",
+      "Eduardo Oliveira"
+    ],
+    {
+      "frac": 0.06347656,
+      "effort": "32.107000 km"
+    }
+  ],
+  [
+    [
+      "61",
+      "Carlos Rolando Alvarado"
+    ],
+    {
+      "frac": 0.06347656,
+      "effort": "32.125000 km"
+    }
+  ],
+  [
+    [
+      "101",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "frac": 0.03955078,
+      "effort": "11.059000 km"
+    }
+  ],
+  [
+    [
+      "83",
+      "Sander van Schaik"
+    ],
+    {
+      "frac": 0.03271484,
+      "effort": "8.233000 km"
+    }
+  ],
+  [
+    [
+      "40",
+      "Jesus Mari Hernando Duque"
+    ],
+    {
+      "frac": 0.03222656,
+      "effort": "8.200000 km"
+    }
+  ],
+  [
+    [
+      "23",
+      "Konrad Heilmann"
+    ],
+    {
+      "frac": 0.00341797,
+      "effort": "1.355000 km"
     }
   ]
 ]

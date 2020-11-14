@@ -1,52 +1,12 @@
 [
   [
     [
-      "69",
-      "Suan Selenati"
-    ],
-    {
-      "time": "3.001411 h",
-      "frac": 1
-    }
-  ],
-  [
-    [
-      "57",
-      "Primoz Gricar"
-    ],
-    {
-      "time": "3.139414 h",
-      "frac": 0.81486687
-    }
-  ],
-  [
-    [
-      "107",
-      "Peter Neuenschwander"
-    ],
-    {
-      "time": "3.141195 h",
-      "frac": 0.81327734
-    }
-  ],
-  [
-    [
-      "10",
-      "Manfred Ruhmer"
-    ],
-    {
-      "time": "3.151629 h",
-      "frac": 0.80409724
-    }
-  ],
-  [
-    [
       "73",
       "Christian Ciech"
     ],
     {
-      "time": "3.208859 h",
-      "frac": 0.75706086
+      "time": "1.484535 h",
+      "frac": 1
     }
   ],
   [
@@ -55,18 +15,18 @@
       "Alessandro Ploner"
     ],
     {
-      "time": "3.229957 h",
-      "frac": 0.74085581
+      "time": "1.496255 h",
+      "frac": 0.95477151
     }
   ],
   [
     [
-      "22",
-      "Glauco Pinto"
+      "69",
+      "Suan SELENATI"
     ],
     {
-      "time": "3.235057 h",
-      "frac": 0.73701507
+      "time": "1.541148 h",
+      "frac": 0.87075475
     }
   ],
   [
@@ -75,58 +35,48 @@
       "Marco Laurenzi"
     ],
     {
-      "time": "3.302788 h",
-      "frac": 0.68837506
+      "time": "1.619367 h",
+      "frac": 0.76950304
     }
   ],
   [
     [
-      "56",
-      "Gerd Doenhuber"
+      "107",
+      "Peter Neuenschwander"
     ],
     {
-      "time": "3.311169 h",
-      "frac": 0.6826246
+      "time": "1.627099 h",
+      "frac": 0.76077362
     }
   ],
   [
     [
-      "44",
-      "Mario Alonzi"
+      "70",
+      "Filippo Oppici"
     ],
     {
-      "time": "3.311346 h",
-      "frac": 0.68250365
+      "time": "1.629185 h",
+      "frac": 0.75844572
     }
   ],
   [
     [
-      "26",
-      "Tyler Borradaile"
+      "10",
+      "Manfred Ruhmer"
     ],
     {
-      "time": "3.334063 h",
-      "frac": 0.66717291
+      "time": "1.629809 h",
+      "frac": 0.75775066
     }
   ],
   [
     [
-      "29",
-      "Dan Vyhnalik"
+      "22",
+      "GLAUCO PINTO"
     ],
     {
-      "time": "3.343325 h",
-      "frac": 0.66102349
-    }
-  ],
-  [
-    [
-      "52",
-      "Grant Crossingham"
-    ],
-    {
-      "time": "3.402335 h",
-      "frac": 0.62306495
+      "time": "1.633505 h",
+      "frac": 0.75365992
     }
   ],
   [
@@ -135,98 +85,48 @@
       "Alvaro Figueiredo Sandoli"
     ],
     {
-      "time": "3.412958 h",
-      "frac": 0.61643587
+      "time": "1.634133 h",
+      "frac": 0.75296756
     }
   ],
   [
     [
-      "84",
-      "Arne Tanzer"
+      "21",
+      "Marcelo Andrei Gomes da Rocha"
     ],
     {
-      "time": "3.414206 h",
-      "frac": 0.61566076
+      "time": "1.644810 h",
+      "frac": 0.74134972
     }
   ],
   [
     [
-      "85",
-      "Joost Eertman"
+      "12",
+      "Joseph Salvenmoser"
     ],
     {
-      "time": "3.416059 h",
-      "frac": 0.61451121
+      "time": "1.650100 h",
+      "frac": 0.7356885
     }
   ],
   [
     [
-      "117",
-      "Zac Majors"
+      "66",
+      "Tullio Gervasoni"
     ],
     {
-      "time": "3.418813 h",
-      "frac": 0.61280646
+      "time": "1.651991 h",
+      "frac": 0.73368022
     }
   ],
   [
     [
-      "25",
-      "Evan Smith"
+      "44",
+      "mario ALONZI"
     ],
     {
-      "time": "3.420699 h",
-      "frac": 0.61164123
-    }
-  ],
-  [
-    [
-      "103",
-      "Franc Peternel"
-    ],
-    {
-      "time": "3.445006 h",
-      "frac": 0.59677335
-    }
-  ],
-  [
-    [
-      "108",
-      "Franz Herrmann"
-    ],
-    {
-      "time": "3.446033 h",
-      "frac": 0.59615091
-    }
-  ],
-  [
-    [
-      "78",
-      "Yuji Suzuki"
-    ],
-    {
-      "time": "3.446994 h",
-      "frac": 0.59556944
-    }
-  ],
-  [
-    [
-      "92",
-      "John Smith"
-    ],
-    {
-      "time": "3.449000 h",
-      "frac": 0.59435669
-    }
-  ],
-  [
-    [
-      "115",
-      "Evgen Lysenko"
-    ],
-    {
-      "time": "3.473963 h",
-      "frac": 0.57941107
+      "time": "1.657059 h",
+      "frac": 0.72833324
     }
   ],
   [
@@ -235,58 +135,108 @@
       "Fabio Thomaz"
     ],
     {
-      "time": "3.497730 h",
-      "frac": 0.56542403
+      "time": "1.659499 h",
+      "frac": 0.7257777
     }
   ],
   [
     [
-      "1",
-      "Steve Blenkinsop"
+      "78",
+      "Yuji Suzuki"
     ],
     {
-      "time": "3.508878 h",
-      "frac": 0.55894079
+      "time": "1.660628 h",
+      "frac": 0.72459909
     }
   ],
   [
     [
-      "64",
-      "Laszlo Okros"
+      "103",
+      "Franc Peternel"
     ],
     {
-      "time": "3.519298 h",
-      "frac": 0.5529236
+      "time": "1.665291 h",
+      "frac": 0.7197587
     }
   ],
   [
     [
-      "58",
-      "Roland Woehrle"
+      "119",
+      "Pedro L. Garcia"
     ],
     {
-      "time": "3.522957 h",
-      "frac": 0.55082016
+      "time": "1.665619 h",
+      "frac": 0.71941999
     }
   ],
   [
     [
-      "54",
-      "Gordon Rigg"
+      "105",
+      "Stanislav GALOVEC"
     ],
     {
-      "time": "3.528930 h",
-      "frac": 0.54739748
+      "time": "1.669777 h",
+      "frac": 0.71514105
     }
   ],
   [
     [
-      "112",
-      "Hakan Andersson Bernardo"
+      "52",
+      "Grant Crossingham"
     ],
     {
-      "time": "3.608596 h",
-      "frac": 0.50290538
+      "time": "1.671376 h",
+      "frac": 0.71350393
+    }
+  ],
+  [
+    [
+      "26",
+      "Tyler Borradaile"
+    ],
+    {
+      "time": "1.674353 h",
+      "frac": 0.71046921
+    }
+  ],
+  [
+    [
+      "56",
+      "Gerd Doenhuber"
+    ],
+    {
+      "time": "1.674761 h",
+      "frac": 0.71005399
+    }
+  ],
+  [
+    [
+      "91",
+      "Olav Opsanger"
+    ],
+    {
+      "time": "1.675783 h",
+      "frac": 0.70901665
+    }
+  ],
+  [
+    [
+      "79",
+      "Minoru Kato"
+    ],
+    {
+      "time": "1.680474 h",
+      "frac": 0.70427741
+    }
+  ],
+  [
+    [
+      "74",
+      "Akira Nagusa"
+    ],
+    {
+      "time": "1.683304 h",
+      "frac": 0.70143749
     }
   ],
   [
@@ -295,18 +245,28 @@
       "Genki Tanaka"
     ],
     {
-      "time": "3.622666 h",
-      "frac": 0.49525575
+      "time": "1.684558 h",
+      "frac": 0.70018316
     }
   ],
   [
     [
-      "21",
-      "Marcelo Andrei Gomes Da Rocha"
+      "16",
+      "Tschurnig Gunther"
     ],
     {
-      "time": "3.713194 h",
-      "frac": 0.44734159
+      "time": "1.686261 h",
+      "frac": 0.69848373
+    }
+  ],
+  [
+    [
+      "45",
+      "Christian Pollet"
+    ],
+    {
+      "time": "1.686895 h",
+      "frac": 0.69785214
     }
   ],
   [
@@ -315,18 +275,218 @@
       "David Brito Filho"
     ],
     {
-      "time": "3.959647 h",
-      "frac": 0.32618605
+      "time": "1.686895 h",
+      "frac": 0.69785195
     }
   ],
   [
     [
-      "68",
-      "Davide Guiducci"
+      "58",
+      "Roland Woehrle"
     ],
     {
-      "time": "4.072198 h",
-      "frac": 0.27440587
+      "time": "1.697834 h",
+      "frac": 0.68705902
+    }
+  ],
+  [
+    [
+      "15",
+      "Wolfgang Siess"
+    ],
+    {
+      "time": "1.702259 h",
+      "frac": 0.68274592
+    }
+  ],
+  [
+    [
+      "54",
+      "Gordon Rigg"
+    ],
+    {
+      "time": "1.707560 h",
+      "frac": 0.67761727
+    }
+  ],
+  [
+    [
+      "108",
+      "Franz Herrmann"
+    ],
+    {
+      "time": "1.710064 h",
+      "frac": 0.67520887
+    }
+  ],
+  [
+    [
+      "77",
+      "Takashi Sunama"
+    ],
+    {
+      "time": "1.710831 h",
+      "frac": 0.67447249
+    }
+  ],
+  [
+    [
+      "60",
+      "Georg Schweier"
+    ],
+    {
+      "time": "1.711910 h",
+      "frac": 0.6734387
+    }
+  ],
+  [
+    [
+      "100",
+      "Felix Cantesanu"
+    ],
+    {
+      "time": "1.713967 h",
+      "frac": 0.67147191
+    }
+  ],
+  [
+    [
+      "89",
+      "Johnny Nilssen"
+    ],
+    {
+      "time": "1.716720 h",
+      "frac": 0.66884936
+    }
+  ],
+  [
+    [
+      "92",
+      "John Smith"
+    ],
+    {
+      "time": "1.717982 h",
+      "frac": 0.66765043
+    }
+  ],
+  [
+    [
+      "85",
+      "Joost Eertman"
+    ],
+    {
+      "time": "1.765259 h",
+      "frac": 0.62417137
+    }
+  ],
+  [
+    [
+      "71",
+      "Manuel REVELLI"
+    ],
+    {
+      "time": "1.794859 h",
+      "frac": 0.59819663
+    }
+  ],
+  [
+    [
+      "102",
+      "Matjaz Klemencic"
+    ],
+    {
+      "time": "1.796415 h",
+      "frac": 0.59685459
+    }
+  ],
+  [
+    [
+      "84",
+      "Arne Tanzer"
+    ],
+    {
+      "time": "1.838715 h",
+      "frac": 0.56118092
+    }
+  ],
+  [
+    [
+      "57",
+      "Primoz Gricar"
+    ],
+    {
+      "time": "1.858474 h",
+      "frac": 0.54500828
+    }
+  ],
+  [
+    [
+      "13",
+      "Walter Mayer"
+    ],
+    {
+      "time": "1.872905 h",
+      "frac": 0.53337585
+    }
+  ],
+  [
+    [
+      "8",
+      "Guy Hubbard"
+    ],
+    {
+      "time": "1.881289 h",
+      "frac": 0.52668432
+    }
+  ],
+  [
+    [
+      "1",
+      "Steve Blenkinsop"
+    ],
+    {
+      "time": "1.899792 h",
+      "frac": 0.51208058
+    }
+  ],
+  [
+    [
+      "4",
+      "Trent Brown"
+    ],
+    {
+      "time": "1.900539 h",
+      "frac": 0.51149554
+    }
+  ],
+  [
+    [
+      "7",
+      "Nils Vesk"
+    ],
+    {
+      "time": "1.911601 h",
+      "frac": 0.50287395
+    }
+  ],
+  [
+    [
+      "43",
+      "ERIC MATHURIN"
+    ],
+    {
+      "time": "1.911626 h",
+      "frac": 0.50285448
+    }
+  ],
+  [
+    [
+      "49",
+      "Gary Wirdnam"
+    ],
+    {
+      "time": "1.912454 h",
+      "frac": 0.50221221
     }
   ],
   [
@@ -335,8 +495,268 @@
       "Darren Brown"
     ],
     {
-      "time": "4.105119 h",
-      "frac": 0.25960914
+      "time": "1.914236 h",
+      "frac": 0.50083114
+    }
+  ],
+  [
+    [
+      "115",
+      "Evgen Lysenko"
+    ],
+    {
+      "time": "1.933968 h",
+      "frac": 0.48566426
+    }
+  ],
+  [
+    [
+      "120",
+      "John Simon"
+    ],
+    {
+      "time": "1.967228 h",
+      "frac": 0.46059254
+    }
+  ],
+  [
+    [
+      "101",
+      "Konstantin Lukyanov"
+    ],
+    {
+      "time": "1.979645 h",
+      "frac": 0.45138085
+    }
+  ],
+  [
+    [
+      "99",
+      "Mikolaj Przezdziak"
+    ],
+    {
+      "time": "1.980842 h",
+      "frac": 0.45049684
+    }
+  ],
+  [
+    [
+      "31",
+      "Jiri Gut"
+    ],
+    {
+      "time": "1.981274 h",
+      "frac": 0.45017816
+    }
+  ],
+  [
+    [
+      "46",
+      "Francois ISOARD"
+    ],
+    {
+      "time": "2.072513 h",
+      "frac": 0.38476108
+    }
+  ],
+  [
+    [
+      "19",
+      "Max Turiaco"
+    ],
+    {
+      "time": "2.102242 h",
+      "frac": 0.36419332
+    }
+  ],
+  [
+    [
+      "122",
+      "Vanni Accattoli"
+    ],
+    {
+      "time": "2.276273 h",
+      "frac": 0.24977606
+    }
+  ],
+  [
+    [
+      "28",
+      "Daniel Velez"
+    ],
+    {
+      "time": "2.278370 h",
+      "frac": 0.24845215
+    }
+  ],
+  [
+    [
+      "106",
+      "Ubaldo Romano"
+    ],
+    {
+      "time": "2.291130 h",
+      "frac": 0.24041969
+    }
+  ],
+  [
+    [
+      "11",
+      "Christian Tiefenbacher"
+    ],
+    {
+      "time": "2.292703 h",
+      "frac": 0.23943245
+    }
+  ],
+  [
+    [
+      "3",
+      "Rory Duncan"
+    ],
+    {
+      "time": "2.305173 h",
+      "frac": 0.23162881
+    }
+  ],
+  [
+    [
+      "68",
+      "Davide Guiducci"
+    ],
+    {
+      "time": "2.329676 h",
+      "frac": 0.21640924
+    }
+  ],
+  [
+    [
+      "48",
+      "Andrew Hollidge"
+    ],
+    {
+      "time": "2.330982 h",
+      "frac": 0.21560232
+    }
+  ],
+  [
+    [
+      "110",
+      "Markel Neideman"
+    ],
+    {
+      "time": "2.359006 h",
+      "frac": 0.19838316
+    }
+  ],
+  [
+    [
+      "29",
+      "Dan Vyhnalik"
+    ],
+    {
+      "time": "2.363249 h",
+      "frac": 0.19579234
+    }
+  ],
+  [
+    [
+      "55",
+      "Kajo Clauss"
+    ],
+    {
+      "time": "2.365440 h",
+      "frac": 0.19445634
+    }
+  ],
+  [
+    [
+      "5",
+      "Peter Burkitt"
+    ],
+    {
+      "time": "2.424964 h",
+      "frac": 0.1585651
+    }
+  ],
+  [
+    [
+      "25",
+      "Evan Smith"
+    ],
+    {
+      "time": "2.454292 h",
+      "frac": 0.14116093
+    }
+  ],
+  [
+    [
+      "81",
+      "Young don Lee"
+    ],
+    {
+      "time": "2.458983 h",
+      "frac": 0.13839353
+    }
+  ],
+  [
+    [
+      "96",
+      "Shane mckay"
+    ],
+    {
+      "time": "2.479368 h",
+      "frac": 0.12641885
+    }
+  ],
+  [
+    [
+      "39",
+      "Tximo Iriarte"
+    ],
+    {
+      "time": "2.492541 h",
+      "frac": 0.11872422
+    }
+  ],
+  [
+    [
+      "112",
+      "Hakan Andersson Bernardo"
+    ],
+    {
+      "time": "2.512537 h",
+      "frac": 0.10710774
+    }
+  ],
+  [
+    [
+      "14",
+      "Alexander Sigl"
+    ],
+    {
+      "time": "2.616190 h",
+      "frac": 0.04805337
+    }
+  ],
+  [
+    [
+      "114",
+      "CANBERG OZVEREN"
+    ],
+    {
+      "time": "2.624058 h",
+      "frac": 0.04364634
+    }
+  ],
+  [
+    [
+      "23",
+      "Konrad Heilmann"
+    ],
+    {
+      "time": "2.697783 h",
+      "frac": 0.00282913
     }
   ]
 ]
